@@ -1,5 +1,3 @@
-# Rookie Robot
-
 > *Make robotics accessible and fun for everyone*
 
 `Rookie Robot` is a project aimed at empowering DIY enthusiasts and beginners to build their own robots.
